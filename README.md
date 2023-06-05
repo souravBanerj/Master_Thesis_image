@@ -1,5 +1,5 @@
 # Master_Thesis_image
-1. The 3D graph illustrates the relationship between the Property_State on the x-axis, the months on the y-axis, and the count of FIPS codes on the z-axis.The degree of consistency or coherence within a dataset or between different datasets is shown on the consistency graph. It depicts the relationship between several variables or measurements across time, between various groups, or under various circumstances. The graph makes it easier to spot patterns, trends, or variances that show how consistent or inconsistent the data is.
+
 ![3D_1](https://github.com/souravBanerj/Master_Thesis_image/assets/74098297/b71ce257-d1f5-4160-91db-5e341a3bf8fc)
 ![3d_2](https://github.com/souravBanerj/Master_Thesis_image/assets/74098297/545dc245-985f-45b1-82ff-ce548fe4d19e)
 ![consistency](https://github.com/souravBanerj/Master_Thesis_image/assets/74098297/35e6f837-ee97-499d-b435-9e8e97ae646f)
